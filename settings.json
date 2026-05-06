@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "EFX_BRUTT.aternos.me",
+    "port": 25199,
+    "version": "1.18.2"
   },
   "position": {
     "enabled": true,
